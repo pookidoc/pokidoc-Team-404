@@ -1,0 +1,17 @@
+Overview
+
+PokiDoc is a telemedicine kiosk designed to bridge the healthcare gap in rural India. It provides accessible, affordable, and quality healthcare services to underserved communities. The kiosk offers real-time doctor consultations, basic health check-ups, and emergency assistance.
+
+Key Features
+
+Telemedicine consultations
+Basic health check-ups
+Emergency assistance
+Electronic health records
+Medication management
+Technology Stack
+
+Flutter Flow for UI development
+Firebase for backend, database, and authentication
+WebRTC for video conferencing
+AI integration for medical assistance
